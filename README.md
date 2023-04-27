@@ -1,7 +1,7 @@
 # Programa Desenvolve 2023 - JavaScript: consumindo e tratando dados de uma API
 
 Repositório criado com o objetivo de registrar meu progresso no Programa Desenvolve 2023 do Grupo Boticário em parceira com a Alura praticando o que foi abordado nas aulas do curso: <br> 
-JavaScript: consumindo e tratando dados de uma API. <br>
+JavaScript: consumindo e tratando dados de uma API, implementando o auto preenchimento de informações do endereço através do valor do CEP inserido pelo usuário no formulário. <br>
 
 ## Demonstração:
 
